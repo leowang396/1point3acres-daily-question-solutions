@@ -260,7 +260,7 @@ Northeastern University
 
 Boston University
 
-下面哪个说法错误？
+### 【题目】 下面哪个说法错误？
 
 伊利诺伊大学在芝加哥有校区
 
@@ -549,3 +549,131 @@ ICML
 SIGKDD
 
 ✓ ICSE
+
+### 【题目】 下面哪个童话故事不是安徒生写的
+
+✓ 尼尔斯骑鹅旅行记
+
+冰雪女王
+
+卖火柴的小女孩
+
+国王的新装
+
+### 【题目】 下面哪个作家是英国人？
+
+✓ Charles Dickens
+
+Ernest Hemingway
+
+Victor Hugo
+
+Alexander Pushkin
+
+### 【题目】 income tax on wages
+
+✓ North Dakota
+
+South Dakota
+
+Wyoming
+
+Teness…
+
+### 【题目】 下面哪个machine learning 的模型不是supervised
+
+Logistic regression
+
+✓ Clustering
+
+SVM
+
+Decision Tree
+
+### 【题目】 Apollo 11是哪一年登月的？
+
+1969
+
+### 【题目】 下面哪个公司的streaming service不是会员subscription付费模式运营的？
+
+✓ tubi
+
+### 【题目】 著名篮球运动员姚明效力的NBA球队是休斯敦火箭队。取名“ 火箭队”是因为休斯敦是美国著名的?
+
+钢城
+
+汽车城
+
+✓ 宇航工业城
+
+电影城
+
+### 【题目】 音乐家贝多芬出生于哪国？
+
+✓ 德国
+
+法国
+
+意大利
+
+英国
+
+### 【题目】 下面哪个Ivy League，离东海岸最远？
+
+Brown
+
+Dartmouth
+
+Princeton
+
+✓ Cornell
+
+### 【题目】 美国哪个州没有夏令时？
+
+南达科他州
+
+爱荷华州
+
+✓ 亚利桑那州
+
+阿肯色州
+
+### 【题目】 下面哪部作品是喜剧？
+
+麦克白
+
+李尔王
+
+✓ 仲夏夜之梦
+
+哈姆雷特
+
+### 【题目】 下面哪个公司总部不在湾区？
+
+google
+
+✓ snapchat
+
+facebook
+
+Apple
+
+### 【题目】 下面哪所纽约高校坐落于中央公园附近？
+
+Fordham University
+
+New York University
+
+New York Institute of Technology
+
+✓ Columbia University
+
+### （不清楚答案）【题目】 如果希望发布实习群，应该发在哪个版？
+
+𐄂 求职（非面经）
+
+本地圈
+
+职场达人
+
+入职圈
